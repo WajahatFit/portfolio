@@ -28,7 +28,7 @@ export default function Contact() {
       );
   };
   return (
-    <div className="p-8 font-serif">
+    <div id="contact" className="p-8 font-serif">
       <h1 className="text-4xl text-center p-8">Contact</h1>
       <form
         className="flex flex-col space-y-2 items-start"

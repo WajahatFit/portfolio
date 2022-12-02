@@ -14,7 +14,7 @@ import Handlebars from "../images/handlebars.webp";
 
 export default function Skills() {
   return (
-    <div className="">
+    <div id="skills">
       <h1 className="text-center text-xl">Skills</h1>
       <h2 className="text-center text-gray-500 p-8">
         My stack is MERN. Mongo, Express, React & Node. I also use all the
