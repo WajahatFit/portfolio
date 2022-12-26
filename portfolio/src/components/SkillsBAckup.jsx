@@ -14,13 +14,13 @@ import Handlebars from "../images/handlebars.webp";
 
 export default function Skills() {
   return (
-    <div className="">
+    <div>
       <h1 className="text-center text-xl">Skills</h1>
       <h2 className="text-center text-gray-500 p-8">
         My stack is MERN. Mongo, Express, React & Node. I also use all the
         folowing technologies.
       </h2>
-      <div className="flex flex-wrap justify-evenly space-y-8 items-end p-4">
+      <div className="flex flex-wrap justify-evenly space-y-8 items-end p-4 font-poppins">
         <SkillCard image={Reactjs} />
         <SkillCard image={JavaScript} />
         <SkillCard image={Mongo} />

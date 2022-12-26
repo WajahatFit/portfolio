@@ -20,7 +20,7 @@ export default function Skills() {
         My stack is MERN. Mongo, Express, React & Node. I also use all the
         folowing technologies.
       </h2>
-      <div className="flex flex-wrap justify-evenly space-y-8 items-end p-4">
+      <div className="flex flex-wrap justify-evenly md:justify-center space-y-8 items-end p-4 font-poppins">
         <SkillCard image={Reactjs} />
         <SkillCard image={JavaScript} />
         <SkillCard image={Mongo} />

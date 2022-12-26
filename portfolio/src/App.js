@@ -10,7 +10,7 @@ import Projects from "./components/Projects";
 
 function App() {
   return (
-    <div className="scroll-smooth">
+    <div className="font-poppins">
       <Toaster />
       <NavBar />
       <Start />

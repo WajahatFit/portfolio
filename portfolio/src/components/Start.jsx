@@ -3,7 +3,7 @@ import svg from "../images/undraw_hello_re_3evm.svg";
 
 export default function Start() {
   return (
-    <div className="h-2/5 bg-blue-500 text-white tracking-wider">
+    <div className="h-2/5 bg-blue-500 text-white tracking-wider font-poppins">
       <div className="flex flex-col items-center justify-center space-y-8 pt-8">
         <h1 className="text-4xl">
           Hi, I'm <span className="font-semibold">Wajahat</span>!
